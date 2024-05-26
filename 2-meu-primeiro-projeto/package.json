@@ -2,7 +2,7 @@
   "name": "my-project",
   "version": "1.0.0",
   "description": "Node.js project from DIO",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "open": "echo \"Olá mundo!\" && exit 0"
